@@ -1,4 +1,4 @@
 
 // import
-let name = "abdul"
-let age = 21
+let name = "abdul";
+let age = 21;
