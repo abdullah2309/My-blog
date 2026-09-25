@@ -4,7 +4,6 @@
 <hr />
 
 SimpleBlog is a completely responsive personal blog website that is compatible with all mobile devices, has Dark and light themes, and is built using HTML, CSS, and JavaScript.
- 
 
 <img src="https://github.com/abdullah2309/my-blog/blob/main/assets/images/full_pages.jpg">
 
