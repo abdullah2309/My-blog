@@ -28,8 +28,7 @@
 
 .dark-theme {
 
-  /**
-   * dark theme colors 
+  /**  dark theme colors 
    */
 
   --background-primary: hsl(218, 23%, 23%);
