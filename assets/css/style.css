@@ -107,7 +107,6 @@ html {
 
 ::-webkit-scrollbar { width: 16px; }
 
-
 ::-webkit-scrollbar-thumb {
   background: var(--accent);
   border-radius: 20px;
@@ -118,8 +117,6 @@ html {
 .dark-theme::-webkit-scrollbar-thumb { border-color: hsl(219, 27%, 20%); }
 .light-theme::-webkit-scrollbar-track { background: hsl(0, 0%, 90%); }
 .dark-theme::-webkit-scrollbar-track { background: hsl(219, 27%, 20%); }
-
-
 
 
 
