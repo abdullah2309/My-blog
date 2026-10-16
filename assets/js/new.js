@@ -1,5 +1,5 @@
 
-// import file 
+// import file as system_file
 let name = "abdul";
 let age = 21;
 let address = "karachi";
